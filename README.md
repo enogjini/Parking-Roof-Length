@@ -8,6 +8,9 @@ Each car is parked at a specific integer position. The goal is to cover **exactl
 
 ---
 
+<img width="542" height="883" alt="parking roof length" src="https://github.com/user-attachments/assets/52234883-4bf9-4294-bfc1-891ade09d287" />
+
+
 ## 🧠 Approach
 
 The solution uses **sorting + sliding window**.
